@@ -9,7 +9,7 @@
 ## About Me
 
 - 📚 Currently diving deep into AI and ML project 
-- 💡 Love creating innovative solutions and collaborating with fellow tech enthusiasts
+- 💡 Love creating innovative solutions 
 - 📖 Constantly learning and staying updated with the latest in tech
 
 
