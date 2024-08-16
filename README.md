@@ -2,9 +2,9 @@
 
 # Hi there, I'm Shravani! 👋
 
-🎓 ** I am Third Year AIML Student** at DKTE'S TEI,ICHLAKARANJI
-💻 Passionate about **Artificial Intelligence** and **Machine Learning**
-🚀 Always exploring new technologies and pushing the boundaries of what's possible!and I’m thrilled to be part of the GitHub community! 
+- 🎓 I am Third Year AIML Student at DKTE'S TEI,ICHLAKARANJI
+- 💻 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🚀 Always exploring new technologies and pushing the boundaries of what's possible! and I’m thrilled to be part of the GitHub community! 
 
 ## About Me
 
